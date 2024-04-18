@@ -1,0 +1,2 @@
+# OS_LAB_EX_PARAS
+Ex 1-14
